@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/BhumikaVP/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/BhumikaVP/Leetcode/tree/master/0169-majority-element) |
 | [0877-stone-game](https://github.com/BhumikaVP/Leetcode/tree/master/0877-stone-game) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/BhumikaVP/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/BhumikaVP/Leetcode/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BhumikaVP/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/BhumikaVP/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
