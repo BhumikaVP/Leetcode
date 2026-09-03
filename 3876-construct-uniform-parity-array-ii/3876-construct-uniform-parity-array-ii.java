@@ -4,7 +4,7 @@ class Solution {
         boolean odd = false;
         for(int i:nums1){
             min = Math.min(min,i);
-            if(i%2==1){
+            if(i%2!=0){
                 odd = true;
             }
         }
