@@ -7,8 +7,8 @@ class Solution {
                 return new int[]{map.get(ans),i};
             }
             map.put(nums[i],i);
-
         }
+        
         return new int[]{};
 
         
