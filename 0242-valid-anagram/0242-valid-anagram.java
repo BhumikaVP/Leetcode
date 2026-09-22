@@ -3,7 +3,7 @@ class Solution {
         if(s.length()!=t.length()){
             return false;
         }
-        HashMap<Character,Integer> map =new HashMap<>();
+        HashMap<Character,Integer> map = new HashMap<>();
         for(int i=0;i<s.length();i++){
             char ch = s.charAt(i);
             map.put(ch,map.getOrDefault(ch,0)+1);
@@ -15,17 +15,14 @@ class Solution {
                     map.remove(ch);
                 }
                 else{
-                    map.put(ch,map.get(ch)-1);
+                    map.put(ch,map.getOrDefault(ch,0)-1);
                 }
-              
-                
             }
             else{
                 return false;
-
-                    
-                }  
+            }
         }
+        
         return map.isEmpty();
         
     }
