@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BhumikaVP/Leetcode/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/BhumikaVP/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/BhumikaVP/Leetcode/tree/master/0169-majority-element) |
 | [0877-stone-game](https://github.com/BhumikaVP/Leetcode/tree/master/0877-stone-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/BhumikaVP/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/BhumikaVP/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/BhumikaVP/Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
